@@ -1,0 +1,7 @@
+D:\KDProjectsTrening\LINQ\Features\Queries\bin\Debug\Queries.exe.config
+D:\KDProjectsTrening\LINQ\Features\Queries\bin\Debug\Queries.exe
+D:\KDProjectsTrening\LINQ\Features\Queries\bin\Debug\Queries.pdb
+D:\KDProjectsTrening\LINQ\Features\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+D:\KDProjectsTrening\LINQ\Features\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+D:\KDProjectsTrening\LINQ\Features\Queries\obj\Debug\Queries.exe
+D:\KDProjectsTrening\LINQ\Features\Queries\obj\Debug\Queries.pdb

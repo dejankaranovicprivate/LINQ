@@ -1,0 +1,7 @@
+D:\KDProjectsTrening\LINQ\Features\Features\bin\Debug\Features.exe.config
+D:\KDProjectsTrening\LINQ\Features\Features\bin\Debug\Features.exe
+D:\KDProjectsTrening\LINQ\Features\Features\bin\Debug\Features.pdb
+D:\KDProjectsTrening\LINQ\Features\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+D:\KDProjectsTrening\LINQ\Features\Features\obj\Debug\Features.exe
+D:\KDProjectsTrening\LINQ\Features\Features\obj\Debug\Features.pdb
+D:\KDProjectsTrening\LINQ\Features\Features\obj\Debug\Features.csprojAssemblyReference.cache

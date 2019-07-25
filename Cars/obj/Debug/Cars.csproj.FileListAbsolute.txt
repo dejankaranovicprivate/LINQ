@@ -1,0 +1,14 @@
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\fuel.csv
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\Cars.exe.config
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\Cars.exe
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\Cars.pdb
+D:\KDProjectsTrening\LINQ\Features\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+D:\KDProjectsTrening\LINQ\Features\Cars\obj\Debug\Cars.exe
+D:\KDProjectsTrening\LINQ\Features\Cars\obj\Debug\Cars.pdb
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\manufacturers.csv
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\EntityFramework.dll
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\EntityFramework.SqlServer.dll
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\EntityFramework.xml
+D:\KDProjectsTrening\LINQ\Features\Cars\bin\Debug\EntityFramework.SqlServer.xml
+D:\KDProjectsTrening\LINQ\Features\Cars\obj\Debug\Cars.csproj.CopyComplete
+D:\KDProjectsTrening\LINQ\Features\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
